@@ -17,6 +17,8 @@ int main(){
 	int c = 0;
 	
     cout << "Press any special keys: ";
+	
+	//hello this is my comment
     
 	while(key != KEY_X)
 	{
